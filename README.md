@@ -21,6 +21,5 @@
 ### 📫 Contacts
 I'm always open to interesting projects and will be glad to find like-minded people. Let's do something great together!
 
-
 <a href="mailto:f.sadykov@yahoo.com" target="_blank"><img src="https://img.shields.io/badge/Email-A482FF.svg?style=for-the-badge&logo=Mail.ru&logoColor=white"/></a>
 <a href="https://t.me/farhad" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
