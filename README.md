@@ -16,6 +16,7 @@ I'm always open to interesting projects and will be glad to find like-minded peo
 <img src="https://img.shields.io/badge/SASS-202723.svg?style=for-the-badge&logo=SASS&logoColor=CC6699"/>
 <img src="https://img.shields.io/badge/JavaScript-202723.svg?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/React-202723.svg?style=for-the-badge&logo=React&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/React%20Native-202723.svg?style=for-the-badge&logo=React&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/TypeScript-202723.svg?style=for-the-badge&logo=TypeScript&logoColor=3178C6"/>
 <img src="https://img.shields.io/badge/Node.js-202723.svg?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E"/>
 <img src="https://img.shields.io/badge/npm-202723.svg?style=for-the-badge&logo=npm&logoColor=CB3837"/>
